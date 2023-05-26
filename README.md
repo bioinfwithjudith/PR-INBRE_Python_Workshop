@@ -3,7 +3,7 @@ This workshop is a crash course designed for beginner python coders in the STEM 
 
 ## Python3 Part 1 - The use of a Python Interpreter and running your first set of commands.
 Google Colab is a great way to test and store code in a notebook fashion. In this workshop, we will use Jupyter Notebooks to store note keeping and develop code to finish exercises. All you need is access to the internet and your own gmail account. Get your toes wet while realizing that the Python Intepreter is just a fancy calculator where you can save and edit your work. As well as learn the simple datatypes: integers, floats, and strings. Further, define customized functions and problem-solve errors. This workshop ends with the development of your first block of code!
-⋅⋅⋅1.0.0 Connecting to Google Colab
+##### 1.0.0 Connecting to Google Colab
 ##### 1.1.0 Python Interpreter in Jupyter Notebook
 ##### 1.2.0 Python Datatypes
 ##### 1.3.0 Evaluate the GC content of a DNA sequence
@@ -18,12 +18,14 @@ It is challenging to stray away from lists and dictionaries when analyzing data.
 ##### 2.1.0 More Python Datatypes
 ##### 2.2.0 Automating Repetitive Tasks using Python
 #### Proficiency Assessment
-The student will have the opportunity to define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
+The student will define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
-
+The final part of our Python crash course will prepare students to read, create, and manipulate files, as well as, learn about importing Python libraries such as Pandas!
 
 ##### 3.0.0 Creating Files
 ##### 3.1.0 Reading files
 ##### 3.2.0 Manipulating files the Pandas Way
 #### Proficiency Assessment
+Students will develop a piece of code that (1) reads in a FASTA file, (2) create a Pandas dataframe that stores multiple characteristics of the sequences found in the FASTA file, and (3) export the Pandas dataframe as a CSV file.  
+
