@@ -8,7 +8,6 @@ Google Colab is a great way to test and store code in a notebook fashion. In thi
 ### 1.1.0 Python Interpreter in Jupyter Notebook
 ### 1.2.0 Python Datatypes
 ### 1.3.0 Evaluate the GC content of a DNA sequence
-#### 1.3.1 Define a Python Function
 ### 1.4.0 Running into Errors
 ### Proficiency Assessment
 
