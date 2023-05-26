@@ -25,7 +25,7 @@ Notebook download:
 ##### 2.1.0 More Python Datatypes
 ##### 2.2.0 Automating Repetitive Tasks using Python
 ### Proficiency Assessment
-The student will define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
+The student will define from scratch familiar functions in Python. Also, the student will use a loop to find the total differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
 The final part of our Python crash course will prepare students to read, create, and manipulate text, csv, and FASTA files, as well as, learn about importing Python libraries such as Pandas!
