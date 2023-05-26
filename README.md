@@ -1,5 +1,5 @@
-# PR-INBRE_Python_Workshop
-This workshop was developed for PR-INBRE.
+# PR-INBRE Python Workshop
+This workshop is a crash course designed for beginner python coders in the STEM field.
 
 ## Python3 Part 1 - Crash Course in Python3 for Future STEM Coders
 ### Lesson 1.0.0 Connecting to Google Colab
