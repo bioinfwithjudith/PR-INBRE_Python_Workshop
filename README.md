@@ -1,5 +1,5 @@
 # PR-INBRE Python Workshop
-This workshop is a crash course designed for beginner python coders in the STEM field.
+This workshop is a crash course designed for beginner python coders in the STEM field. The development of sequencing methods and decreasing costs leads to the need of scientists knowing how to code. Not only is it important for scientists to know how to develop and execute code but scientists may run into looking at another scientists code and being able to decipher what's going on for their own research benefit.
 
 ## Python3 Part 1 - The use of a Python Interpreter and running your first set of commands.
 Google Colab is a great way to test and store code in a notebook fashion. In this workshop, we will use Jupyter Notebooks to store note keeping and develop code to finish exercises. All you need is access to the internet and your own gmail account. Get your toes wet while realizing that the Python Intepreter is just a fancy calculator where you can save and edit your work. As well as learn the simple datatypes: integers, floats, and strings. Further, define customized functions and problem-solve errors. This workshop ends with the development of your first block of code!
@@ -21,7 +21,7 @@ It is challenging to stray away from lists and dictionaries when analyzing data.
 The student will define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
-The final part of our Python crash course will prepare students to read, create, and manipulate files, as well as, learn about importing Python libraries such as Pandas!
+The final part of our Python crash course will prepare students to read, create, and manipulate text, csv, and FASTA files, as well as, learn about importing Python libraries such as Pandas!
 
 ##### 3.0.0 Creating Files
 ##### 3.1.0 Reading files
