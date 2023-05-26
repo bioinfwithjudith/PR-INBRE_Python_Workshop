@@ -12,7 +12,7 @@ Google Colab is a great way to test and store code in a notebook fashion. In thi
 The student will develop a block of code that takes in a DNA sequence of interest that was obtained from the database Uniprot and cross reference database. Define the following functions and return the following values: total Guanines, total Cytosines, total Adenines, and total Uridines, and the A=T/G+C ratio of the DNA sequence.
 
 ## Python3 Part 2 - The use of booleans and conditional statements in for and while loops to automate repetitive tasks.
-It is challenging to stray away from lists and dictionaries when analyzing data. Using booleans and conditionals will become second nature in you when using for and while loops to analyze data that is stored in lists and dictionaries.
+It is challenging to stray away from lists and dictionaries when analyzing data. In this lesson, the student will generate lists and dictionaries, as well as, indexing and calling keys from these lists and dictionaries. Using booleans and conditionals will become second nature in the student when using for and while loops to analyze data that is stored in lists and dictionaries.
 
 ##### 2.0.0 Booleans and Conditions
 ##### 2.1.0 More Python Datatypes
