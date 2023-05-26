@@ -4,7 +4,8 @@ This workshop is a crash course designed for beginner python coders in the STEM 
 ## Python3 Part 1 - The use of a Python Interpreter and running your first set of commands.
 Google Colab is a great way to test and store code in a notebook fashion. In this workshop, we will use Jupyter Notebooks to store note keeping and develop code to finish exercises. All you need is access to the internet and your own gmail account. Get your toes wet while realizing that the Python Intepreter is just a fancy calculator where you can save and edit your work. As well as learn the simple datatypes: integers, floats, and strings. Further, define customized functions and problem-solve errors. This workshop ends with the development of your first block of code!
 
-Refer to ```Student_PART_1_Python3_Workshop.ipynb
+Refer to 
+```Student_PART_1_Python3_Workshop.ipynb
 ```
 
 ##### 1.0.0 Connecting to Google Colab
