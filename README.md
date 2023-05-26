@@ -17,7 +17,7 @@ It is challenging to stray away from lists and dictionaries when analyzing data.
 ##### 2.0.0 Booleans and Conditions
 ##### 2.1.0 More Python Datatypes
 ##### 2.2.0 Automating Repetitive Tasks using Python
-#### Proficiency Assessment
+### Proficiency Assessment
 The student will define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
@@ -26,6 +26,6 @@ The final part of our Python crash course will prepare students to read, create,
 ##### 3.0.0 Creating Files
 ##### 3.1.0 Reading files
 ##### 3.2.0 Manipulating files the Pandas Way
-#### Proficiency Assessment
+### Proficiency Assessment
 Students will develop a piece of code that (1) reads in a FASTA file, (2) create a Pandas dataframe that stores multiple characteristics of the sequences found in the FASTA file, and (3) export the Pandas dataframe as a CSV file.  
 
