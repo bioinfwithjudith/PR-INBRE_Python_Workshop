@@ -4,6 +4,7 @@ This workshop is a crash course designed for beginner python coders in the STEM 
 ## Python3 Part 1 - The use of a Python Interpreter and running your first set of commands.
 Google Colab is a great way to test and store code in a notebook fashion. In this workshop, we will use Jupyter Notebooks to store note keeping and develop code to finish exercises. All you need is access to the internet and your own gmail account. Get your toes wet while realizing that the Python Intepreter is just a fancy calculator where you can save and edit your work. As well as learn the simple datatypes: integers, floats, and strings. Further, define customized functions and problem-solve errors. This workshop ends with the development of your first block of code!
 
+Notebook download:
 ```Student_PART_1_Python3_Workshop.ipynb```
 
 ##### 1.0.0 Connecting to Google Colab
@@ -17,6 +18,9 @@ The student will develop a block of code that takes in a DNA sequence of interes
 ## Python3 Part 2 - The use of booleans and conditional statements in for and while loops to automate repetitive tasks.
 It is challenging to stray away from lists and dictionaries when analyzing data. In this lesson, the student will generate lists and dictionaries, as well as, indexing and calling keys from these lists and dictionaries. Using booleans and conditionals will become second nature in the student when using for and while loops to analyze data that is stored in lists and dictionaries.
 
+Notebook download:
+```Student_PART_2_Python3_Workshop.ipynb```
+
 ##### 2.0.0 Booleans and Conditions
 ##### 2.1.0 More Python Datatypes
 ##### 2.2.0 Automating Repetitive Tasks using Python
@@ -25,6 +29,9 @@ The student will define from scratch familiar functions in Python. Also, the stu
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
 The final part of our Python crash course will prepare students to read, create, and manipulate text, csv, and FASTA files, as well as, learn about importing Python libraries such as Pandas!
+
+Notebook download:
+```Student_PART_3_Python3_Workshop.ipynb```
 
 ##### 3.0.0 Creating Files
 ##### 3.1.0 Reading files
