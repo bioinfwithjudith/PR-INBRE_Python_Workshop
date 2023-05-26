@@ -9,15 +9,16 @@ Google Colab is a great way to test and store code in a notebook fashion. In thi
 ##### 1.3.0 Evaluate the GC content of a DNA sequence
 ##### 1.4.0 Running into Errors
 #### Proficiency Assessment
-Develop a block of code that takes in a DNA sequence of interest that was obtained from the database Uniprot and cross reference database. Define the following functions and return the following values: total Guanines, total Cytosines, total Adenines, and total Uridines, and the A=T/G+C ratio of the DNA sequence.
+The student will develop a block of code that takes in a DNA sequence of interest that was obtained from the database Uniprot and cross reference database. Define the following functions and return the following values: total Guanines, total Cytosines, total Adenines, and total Uridines, and the A=T/G+C ratio of the DNA sequence.
 
 ## Python3 Part 2 - The use of booleans and conditional statements in for and while loops to automate repetitive tasks.
-It is challenging to stray away from lists and dictionaries when analyzing data. Using booleans and conditionals will become second nature in your for and while loops when analyzing data that is stored in lists and dictionaries.
+It is challenging to stray away from lists and dictionaries when analyzing data. Using booleans and conditionals will become second nature in you when using for and while loops to analyze data that is stored in lists and dictionaries.
 
 ##### 2.0.0 Booleans and Conditions
 ##### 2.1.0 More Python Datatypes
 ##### 2.2.0 Automating Repetitive Tasks using Python
 #### Proficiency Assessment
+The student will have the opportunity to define from scratch familiar functions in Python. Also, the student will use a loop to find differences between two DNA sequences. Finally, the student will have a list of sequences and return properties of the sequences (i.e. length, transcript of the protein-coding gene, and the amino acid sequence)
 
 ## Python3 Part 3 - Reading, creating, and manipulating files
 
