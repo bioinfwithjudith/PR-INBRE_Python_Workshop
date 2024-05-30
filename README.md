@@ -7,7 +7,7 @@ Google Colab is a great way to test and store code in a notebook fashion. In thi
 Notebook download:
 ```Student_PART_1_Python3_Workshop.ipynb```
 
-##### 1.0.0 Connecting to Google Colab
+##### 1.0.0 Downloading from GitHub and connecting to Google Colab
 ##### 1.1.0 Python Interpreter in Jupyter Notebook
 ##### 1.2.0 Python Datatypes
 ##### 1.3.0 Evaluate the GC content of a DNA sequence
