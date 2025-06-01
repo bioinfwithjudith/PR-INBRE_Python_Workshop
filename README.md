@@ -1,4 +1,4 @@
-# PR-INBRE Python Workshop 2024
+# PR-INBRE Python Workshop 2025
 This workshop is a crash course designed for beginner python coders in the STEM field. The development of sequencing methods and decreasing costs leads to the need of scientists knowing how to code. Not only is it important for scientists to know how to develop and execute code but scientists may run into looking at another scientists code and being able to decipher what's going on for their own research benefit.
 
 ## Part 1 - The use of a Python Interpreter and running your first set of commands.
