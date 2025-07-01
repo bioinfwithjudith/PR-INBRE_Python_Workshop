@@ -1,7 +1,7 @@
 # Install asssistance
 
 ## Create pip environment
-`python3.9 -m venv easyfly_envActivate created environment`
+`python3 -m venv easyfly_env
 
 ## Activate the environment
 `source easyfly_env/bin/activate`
