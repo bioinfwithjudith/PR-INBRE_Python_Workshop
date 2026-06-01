@@ -39,3 +39,9 @@ Notebook download:
 ### Proficiency Assessment
 Students will develop a piece of code that (1) reads in a FASTA file, (2) create a Pandas dataframe that stores multiple characteristics of the sequences found in the FASTA file, and (3) export the Pandas dataframe as a CSV file.  
 
+# Additional resources and practice
+[Programming with Python by Carpentries](https://swcarpentry.github.io/python-novice-inflammation/07-cond.html)
+
+[Bored? Here are more challenging lessons](https://carpentries.org/lessons/)
+
+
